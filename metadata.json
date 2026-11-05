@@ -1,0 +1,6 @@
+{
+  "name": "beebly",
+  "description": "A gamified, mobile-first smart budgeting and financial accountability web app featuring Wealth Stats virtues, TTC & GO Transit fare prediction, Wallet OCR logging, Google Sheets bi-directional sync, and an expressive pixel-art cat companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
