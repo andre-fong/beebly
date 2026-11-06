@@ -237,7 +237,7 @@ export const GoogleSheetsSyncView: React.FC = () => {
             </div>
             <h3
               className="mt-2 text-lg font-bold text-[#F4F1EA]"
-              style={{ fontFamily: 'Fraunces, serif' }}
+              style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
             >
               Update Google Spreadsheet Data?
             </h3>
@@ -275,7 +275,7 @@ export const GoogleSheetsSyncView: React.FC = () => {
             </div>
             <h2
               className="mt-1 text-2xl font-bold text-[#F4F1EA]"
-              style={{ fontFamily: 'Fraunces, serif' }}
+              style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
             >
               Google Spreadsheet Synchronization
             </h2>
@@ -349,7 +349,7 @@ export const GoogleSheetsSyncView: React.FC = () => {
           <div className="text-xs text-[#E5B84B]">Mode 1 · Quick-Start Legacy Ingestion</div>
           <h3
             className="mt-1 text-lg font-bold text-[#F4F1EA]"
-            style={{ fontFamily: 'Fraunces, serif' }}
+            style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
           >
             AI Arbitrary Spreadsheet Schema Mapper
           </h3>
@@ -433,7 +433,7 @@ export const GoogleSheetsSyncView: React.FC = () => {
             <div className="text-xs text-[#34D399]">Mode 2 · Live Automated Ledger Sync</div>
             <h3
               className="mt-1 text-lg font-bold text-[#F4F1EA]"
-              style={{ fontFamily: 'Fraunces, serif' }}
+              style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
             >
               Provision or Sync Google Sheet
             </h3>
@@ -478,7 +478,7 @@ export const GoogleSheetsSyncView: React.FC = () => {
           <div className="rounded-3xl border border-slate-800 bg-[#121826] p-6 shadow-xl">
             <h3
               className="text-base font-bold text-[#F4F1EA]"
-              style={{ fontFamily: 'Fraunces, serif' }}
+              style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
             >
               PWA, Notifications &amp; Motion Settings
             </h3>

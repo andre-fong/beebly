@@ -120,7 +120,7 @@ export const TransitCommandCenter: React.FC = () => {
               </div>
               <h2
                 className="text-lg font-bold text-[#F4F1EA] md:text-xl"
-                style={{ fontFamily: 'Fraunces, serif' }}
+                style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
               >
                 {predictiveSuggestion.promptText}
               </h2>
@@ -164,7 +164,7 @@ export const TransitCommandCenter: React.FC = () => {
             </div>
             <h2
               className="mt-1 text-xl font-bold text-[#F4F1EA]"
-              style={{ fontFamily: 'Fraunces, serif' }}
+              style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
             >
               Station-to-Station Fare Calculator
             </h2>
@@ -291,7 +291,7 @@ export const TransitCommandCenter: React.FC = () => {
           <div className="rounded-3xl border border-slate-800 bg-[#121826] p-5">
             <h3
               className="text-base font-bold text-[#F4F1EA]"
-              style={{ fontFamily: 'Fraunces, serif' }}
+              style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
             >
               Learned Commute Patterns
             </h3>
@@ -327,7 +327,7 @@ export const TransitCommandCenter: React.FC = () => {
           <div className="rounded-3xl border border-slate-800 bg-[#121826] p-5">
             <h3
               className="text-base font-bold text-[#F4F1EA]"
-              style={{ fontFamily: 'Fraunces, serif' }}
+              style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
             >
               Recent Transit Ledger
             </h3>

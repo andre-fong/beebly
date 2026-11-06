@@ -229,7 +229,7 @@ export const CatCompanion: React.FC = () => {
                 </div>
                 <div
                   className="text-2xl font-extrabold italic tracking-tight text-[#F4F1EA] md:text-3xl"
-                  style={{ fontFamily: 'Fraunces, serif' }}
+                  style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
                 >
                   {activeCutIn.subtitle}
                 </div>
@@ -254,7 +254,7 @@ export const CatCompanion: React.FC = () => {
               <div className="mb-1 flex items-center justify-between gap-3">
                 <span
                   className="font-bold text-[#E5B84B]"
-                  style={{ fontFamily: 'Fraunces, serif' }}
+                  style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
                 >
                   Mochi · Ledger Guide
                 </span>

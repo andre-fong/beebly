@@ -81,7 +81,7 @@ export const OnboardingModal: React.FC = () => {
                   </div>
                   <h2
                     className="text-xl font-bold text-[#F4F1EA]"
-                    style={{ fontFamily: 'Fraunces, serif' }}
+                    style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
                   >
                     {step === 0 && '01. Identity & Ledger Name'}
                     {step === 1 && '02. Salary & Budget Baseline'}

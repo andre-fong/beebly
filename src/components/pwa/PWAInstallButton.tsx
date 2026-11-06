@@ -44,7 +44,7 @@ export const PWAInstallButton: React.FC = () => {
           <div className="w-full max-w-sm rounded-3xl border border-[#E5B84B]/40 bg-[#121826] p-6 shadow-2xl">
             <h3
               className="text-lg font-bold text-[#F4F1EA]"
-              style={{ fontFamily: 'Fraunces, serif' }}
+              style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
             >
               Install beebly on Home Screen
             </h3>

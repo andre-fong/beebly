@@ -183,7 +183,7 @@ export const WealthStatsStageContent: React.FC<RadialStatsStageProps> = ({
               <div className="h-3 w-16 rounded-full bg-[#E5B84B]" />
               <span
                 className="mt-2 text-xs font-semibold tracking-wider text-[#F4F1EA]"
-                style={{ fontFamily: 'Fraunces, serif' }}
+                style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
               >
                 ROYAL WALLET UNLOCKED
               </span>
@@ -218,7 +218,7 @@ export const WealthStatsStageContent: React.FC<RadialStatsStageProps> = ({
           </div>
           <h2
             className="text-2xl font-bold tracking-tight text-[#F4F1EA] md:text-3xl"
-            style={{ fontFamily: 'Fraunces, serif' }}
+            style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
           >
             {userName}&apos;s Wealth Virtues
           </h2>
@@ -355,7 +355,7 @@ export const WealthStatsStageContent: React.FC<RadialStatsStageProps> = ({
                     fill="#F4F1EA"
                     fontSize={rankDisplay.length > 1 ? '18' : '22'}
                     fontWeight="800"
-                    style={{ fontFamily: 'Fraunces, serif' }}
+                    style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
                   >
                     {rankDisplay}
                   </text>
@@ -391,7 +391,7 @@ export const WealthStatsStageContent: React.FC<RadialStatsStageProps> = ({
                     fill="#F4F1EA"
                     fontSize="10"
                     fontWeight="600"
-                    style={{ fontFamily: 'Fraunces, serif' }}
+                    style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
                   >
                     {rec.title}
                   </text>
@@ -438,7 +438,7 @@ export const WealthStatsStageContent: React.FC<RadialStatsStageProps> = ({
                 })}
                 <span
                   className="text-xl font-bold text-[#F4F1EA]"
-                  style={{ fontFamily: 'Fraunces, serif' }}
+                  style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
                 >
                   {selectedMeta.label}
                 </span>

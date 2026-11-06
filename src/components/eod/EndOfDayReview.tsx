@@ -275,7 +275,7 @@ export const EndOfDayReview: React.FC = () => {
             </div>
             <h2
               className="mt-1 text-2xl font-bold text-[#F4F1EA]"
-              style={{ fontFamily: 'Fraunces, serif' }}
+              style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
             >
               End of Day Accountability Review
             </h2>
@@ -318,7 +318,7 @@ export const EndOfDayReview: React.FC = () => {
 
           <h3
             className="mt-2 text-xl font-bold text-[#F4F1EA]"
-            style={{ fontFamily: 'Fraunces, serif' }}
+            style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
           >
             {predictiveCommute
               ? predictiveCommute.promptText
@@ -387,7 +387,7 @@ export const EndOfDayReview: React.FC = () => {
 
             <h3
               className="mt-1 text-xl font-bold text-[#F4F1EA]"
-              style={{ fontFamily: 'Fraunces, serif' }}
+              style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
             >
               Screenshot Quick-Log
             </h3>
@@ -496,7 +496,7 @@ export const EndOfDayReview: React.FC = () => {
               <div className="text-xs text-[#94A3B8]">Stage 2B · Cash or Unlisted Entry</div>
               <h3
                 className="mt-1 text-lg font-bold text-[#F4F1EA]"
-                style={{ fontFamily: 'Fraunces, serif' }}
+                style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
               >
                 Manual Quick-Log
               </h3>
@@ -577,7 +577,7 @@ export const EndOfDayReview: React.FC = () => {
             <div className="rounded-3xl border border-[#E5B84B]/50 bg-[#171E30] p-5 shadow-2xl">
               <h4
                 className="text-base font-bold text-[#F4F1EA]"
-                style={{ fontFamily: 'Fraunces, serif' }}
+                style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
               >
                 Ready to Seal Today&apos;s Ledger?
               </h4>
@@ -608,7 +608,7 @@ export const EndOfDayReview: React.FC = () => {
           <CheckCircle2 className="mx-auto h-12 w-12 text-[#34D399]" />
           <h3
             className="mt-3 text-2xl font-bold text-[#F4F1EA]"
-            style={{ fontFamily: 'Fraunces, serif' }}
+            style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
           >
             End of Day Review Complete!
           </h3>

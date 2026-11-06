@@ -35,7 +35,7 @@ const NAV_ITEMS: ReadonlyArray<{
   label: string;
   icon: React.ComponentType<{ className?: string }>;
 }> = [
-  { id: 'dashboard', label: 'Ledger', icon: LayoutDashboard },
+  { id: 'dashboard', label: 'Home', icon: LayoutDashboard },
   { id: 'transit', label: 'Transit', icon: Train },
   { id: 'eod', label: 'EOD Review', icon: Compass },
   { id: 'wealth-stats', label: 'Virtues', icon: Coins },
@@ -75,7 +75,7 @@ export default function App() {
               setActiveRoute('dashboard');
             }}
             className="shrink-0 whitespace-nowrap text-xl font-extrabold tracking-tight text-[#E5B84B]"
-            style={{ fontFamily: 'Fraunces, serif' }}
+            style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
           >
             beebly
           </a>
@@ -120,7 +120,7 @@ export default function App() {
                 </span>
                 <span
                   className="font-mono text-sm font-black tabular-nums text-[#FACC15]"
-                  style={{ fontFamily: 'Fraunces, serif' }}
+                  style={{ fontFamily: "'Outfit', 'Plus Jakarta Sans', sans-serif" }}
                 >
                   {headerDateFormatted.monthShort} {headerDateFormatted.dayDD}
                 </span>
